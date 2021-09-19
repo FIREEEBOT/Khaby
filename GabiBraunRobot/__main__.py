@@ -79,7 +79,7 @@ buttons = [
     ],
     [
         InlineKeyboardButton(
-            text="📑 Loges", url="https://t.me/khabylog"),
+            text="📑 Loges", url="https://t.me/khabylogs"),
           
 
 
@@ -356,7 +356,7 @@ def gabi_about_callback(update, context):
                  \n❍ I have a note keeping system, blacklists, and even predetermined replies on certain keywords.
                  \n❍ I check for admins' permissions before executing any command and more stuffs
                  \n\n_shasa's licensed under the GNU General Public License v3.0_
-                 \nHere is the [💾Repository](https://github.com/Falco-Grice/GabiBraunRobot).
+                 \nHere is the [💾Repository](https://t.me/TVA_NETWORK).
                  \n\nIf you have any question about *Gabi*, let us know at .""",
             parse_mode=ParseMode.MARKDOWN,
             disable_web_page_preview=True,
