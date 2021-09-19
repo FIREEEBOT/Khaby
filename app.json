@@ -1,5 +1,5 @@
 {
-      "name": "Gabi Braun Robot",
+      "name": "Khaby robot",
       "description": "An Anime themed Telegram group management bot.",
       "keywords": [
          "telegram",
@@ -8,8 +8,8 @@
          "manager",
          "Gabi"
       ],   
-  "logo":    "https://telegra.ph/file/a612794ea868bb4fbcc5e.jpg",
- "repository": "https://github.com/Falco-Grice/GabiBraunRobot",
+  "logo":    "https://telegra.ph/file/986b7283600a4d3a0442b.jpg",
+ "repository": "https://github.com/FIREEEBOT/Khaby",
 
 "addons": [
       {
@@ -47,22 +47,22 @@
       },
       "OWNER_USERNAME": {
          "description": "Your username without the @",
-         "value": "One_Eyed_Ghouls_King"
+         "value": "Khaabyyyy"
       },
       "SUPPORT_CHAT": {
          "description": "Your Telegram support group chat username where your users will go and bother you with shit But be like: MyGroupChatUsernameBlah. If this ever points to saitama support than consider you made an enemy.",
          "required": true,
-         "value": "GabiHelpSupport"
+         "value": "TVA_AGENCY"
       },
       "EVENT_LOGS": {
          "description": "Event logs channel to note down important bot level events, recommend to make this public. ex: '-123456'",
          "required": true,
-         "value": "@Gabi_Support_Log"
+         "value": "your log channel"
       },
       "JOIN_LOGGER": {
          "description": "A channel where bot will print who added it to what group, useful during debugging or spam handling.",
          "required": true,
-         "value": "@Gabi_Support_Log"
+         "value": "join logger channel"
       },      
       "CASH_API_KEY": {
          "description": "Required for currency converter. Get yours from https://www.alphavantage.co/support/#api-key",
