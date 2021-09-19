@@ -6,10 +6,10 @@
 
 ### Telegram Group
 <p align="left">
-<a href="https://t.me/GabiHelpSupport" alt="Telegram!"> <img src="https://aleen42.github.io/badges/src/telegram.svg" /> </a>
+<a href="https://t.me/TVA_AGENCY" alt="Telegram!"> <img src="https://aleen42.github.io/badges/src/telegram.svg" /> </a>
 
 ### Bot And Channel 
-* Bot Link:  <a href="http://t.me/Khabyrobot" alt="Khaby"> <img src="https://img.shields.io/badge/%F0%9F%A4%96%20-Khaby-blue" /> </a>
+* Bot Link:  <a href="http://t.me/KHABYROBOT" alt="Khaby"> <img src="https://img.shields.io/badge/%F0%9F%A4%96%20-Khaby-blue" /> </a>
 * Log Channel: <a  href="https://t.me/khabylog" alt="Bot Logs"> <img  src="https://img.shields.io/badge/%F0%9F%92%A1-Khaby%20Log%20Channel-9cf" /> </a>
 
 ### Creating your own modules.
