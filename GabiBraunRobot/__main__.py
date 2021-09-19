@@ -53,7 +53,7 @@ def get_readable_time(seconds: int) -> str:
 
 
 PM_START_TEXT = """
-`Hey There!` [👩‍💼](https://telegra.ph/file/0ed48df18f4175d61b5d8.jpg) `My name is` *Gabi Braun*
+`Hey There!` [👩‍💼](https://telegra.ph/file/0ed48df18f4175d61b5d8.jpg) `My name is` *Khaby*
 `I am an Anime Themed group management bot.
 Build by The Ghost Hunter and managed by Falco Grice for Your Telegram Group , I specialize in managing anime and similar themed groups.
 You can find my list of available commands with! Hit` *🔐Commands*   
@@ -62,7 +62,7 @@ You can find my list of available commands with! Hit` *🔐Commands*
 buttons = [
     [
         InlineKeyboardButton(
-            text="➕️ ADD GABI TO YOUR GROUP ➕️",url="t.me/Gabi_Braun_Robot?startgroup=true"),
+            text="➕️ ADD GABI TO YOUR GROUP ➕️",url="t.me/Khabyrobot?startgroup=true"),
     ],
     [
         InlineKeyboardButton(
@@ -70,38 +70,38 @@ buttons = [
      
     ],
     [     InlineKeyboardButton(
-            text="🎦 H.S.A Group", url="https://telegram.dog/Hindisubsanimes"),
+            text="TVA GROUP❓", url="https://t.me/TVA_AGENCY"),
     
     ],
     [
         InlineKeyboardButton(
-            text="📮 Update Channel", url="https://telegram.dog/EldianGabi_UpdateChannel"),
+            text=" Update Chnnel⁉️", url="https://t.me/TVANETWORK"),
     ],
     [
         InlineKeyboardButton(
-            text="📑 Loges", url="https://t.me/Gabi_Support_Log"),
+            text="📑 Loges", url="https://t.me/khabylog"),
           
 
 
 InlineKeyboardButton(
-            text="🐱 SUPPORT", url="https://telegram.dog/GabiHelpSupport"
+            text="🐱 SUPPORT", url="https://t.me/TVA_AGENCY"
         ),
 
     ],
     [
         InlineKeyboardButton(
-                    text="🗄️ Source Code", url="https://github.com/Falco-Grice/GabiBraunRobot"
+                    text="🗄️ Source Code", url="https://t.me/TVA_AGENCY"
         ),
     ],
 ]
 
 
 HELP_STRINGS = """
-`Hey there! My name is` [Gabi Braun]("https://telegra.ph/file/8cab4bb122cf76702b06d.jpg") 
-I'm a Eldian and help admins manage their groups with Some Powerful Titans! `Have a look at the following for an idea of some of the things I can help you with.`"""
+`Hey there! My name is` [KHABY-KEEP SIMPLE]("https://telegra.ph/file/cafa957b326bd7847f0f8.jpg") 
+I'm Khaby and help admins manage their groups with Some Powerful Titans! `Have a look at the following for an idea of some of the things I can help you with.`"""
 
 DONATE_STRING = """Heya, glad to hear you want to donate!
- You can support the project via [Paytm](#) or by contacting @The_Ghost_Hunter\
+ You can support the project via [Paytm](#) or by contacting @ATOPBEGAR\
  Supporting isnt always financial! \
  Those who cannot provide monetary support are welcome to help us develop the bot at ."""
 
@@ -383,8 +383,8 @@ def Source_about_callback(update, context):
     query = update.callback_query
     if query.data == "source_":
         query.message.edit_text(
-            text=""" Hi..👩‍💼 I'm *gabi*
-                 \nHere is the [Source Code](https://github.com/HuntingBots/AsunaRobot) .""",
+            text=""" Hi..😜 I'm *KHABY*
+                 \nHere is the [Source Code](https://github.com/FIREEEBOT/Khaby) .""",
             parse_mode=ParseMode.MARKDOWN,
             disable_web_page_preview=True,
             reply_markup=InlineKeyboardMarkup(
