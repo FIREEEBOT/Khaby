@@ -1,16 +1,16 @@
 <p align="center">
-  <img src="https://telegra.ph/file/0ed48df18f4175d61b5d8.jpg">
+  <img src="https://telegra.ph/file/cafa957b326bd7847f0f8.jpg">
 </p>
 
-## Gabi Braun Robot 
+## KHABY - KEEP SIMPLE
 
 ### Telegram Group
 <p align="left">
 <a href="https://t.me/GabiHelpSupport" alt="Telegram!"> <img src="https://aleen42.github.io/badges/src/telegram.svg" /> </a>
 
 ### Bot And Channel 
-* Bot Link:  <a href="http://t.me/Gabi_Braun_Robot" alt="GabiBraun"> <img src="https://img.shields.io/badge/%F0%9F%A4%96%20-GabiBraun-blue" /> </a>
-* Log Channel: <a  href="https://t.me/Gabi_Support_Log" alt="Bot Logs"> <img  src="https://img.shields.io/badge/%F0%9F%92%A1-gabibraun%20Log%20Channel-9cf" /> </a>
+* Bot Link:  <a href="http://t.me/Khabyrobot" alt="Khaby"> <img src="https://img.shields.io/badge/%F0%9F%A4%96%20-Khaby-blue" /> </a>
+* Log Channel: <a  href="https://t.me/khabylog" alt="Bot Logs"> <img  src="https://img.shields.io/badge/%F0%9F%92%A1-Khaby%20Log%20Channel-9cf" /> </a>
 
 ### Creating your own modules.
 
@@ -40,29 +40,29 @@ through the /stats command, which is only available to the bot owner.
 
 Once you've set up your database and your configuration is complete, simply run the bat file(if on windows) or run (Linux):
 
-python3 -m GabiBraunRobot
+python3 -m khaby
 
 You can use nssm to install the bot as service on windows and set it to restart on /gitpull 
 Make sure to edit the start and restart bats to your needs. 
 Note: the restart bat requires that User account control be disabled.
 
 For queries or any issues regarding the bot please open an issue ticket or visit us at <p align="left">
-<a href="https://t.me/GabiHelpSupport" alt="Telegram!"> <img src="https://aleen42.github.io/badges/src/telegram.svg" /> </a>
+<a href="https://t.me/TVA_AGENCY" alt="Telegram!"> <img src="https://aleen42.github.io/badges/src/telegram.svg" /> </a>
 
 ## How to setup on Heroku 
 For starters click on this button 
 
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/Falco-Grice/GabiBraunRobot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/FIREEEBOT/Khaby"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 
 ## Our Telegram Channel and Group
 
-* [Support](https://telegram.dog/GabiHelpSupport)
-* [Discussion](https://telegram.dog/helpcenterbot1)
-* [Second Group](https://telegram.dog/Ast_Official_Channel)
+* [Support](https://telegram.dog/TVA_AGENCY)
+* [Discussion](https://telegram.dog/TVA_AGENCY)
+* [CHANNEL](https://telegram.dog/TVANETWORK)
 
 ## Credits,  
-*   [The Ghost Hunter](https://telegram.dog/The_Ghost_Hunter)
+*   [The Ghost Hunter](https://t.me/ATOPBEGAR)
 
 ## Bot Owner
-*  [Falco Grice](https://telegram.dog/Official_Flying_Titan)
+*  [ATOP](https://t.me/ATOPBEGAR)
