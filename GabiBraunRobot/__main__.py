@@ -62,7 +62,7 @@ You can find my list of available commands with! Hit` *🔐Commands*
 buttons = [
     [
         InlineKeyboardButton(
-            text="➕️ ADD GABI TO YOUR GROUP ➕️",url="t.me/Khabyrobot?startgroup=true"),
+            text="➕️ ADD KHABY TO YOUR GROUP ➕️",url="t.me/KHABYROBOT?startgroup=true"),
     ],
     [
         InlineKeyboardButton(
