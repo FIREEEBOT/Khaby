@@ -62,7 +62,7 @@ For starters click on this button
 * [CHANNEL](https://telegram.dog/TVANETWORK)
 
 ## Credits,  
-*   [The Ghost Hunter](https://t.me/ATOPBEGAR)
+*   [The Ghost Hunter](https://t.me/the_,)
 
 ## Bot Owner
-*  [ATOP](https://t.me/ATOPBEGAR)
+*  [ODIN](https://t.me/ODINSYSTEM)
