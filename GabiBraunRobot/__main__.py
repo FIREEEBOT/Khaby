@@ -79,7 +79,7 @@ buttons = [
     ],
     [
         InlineKeyboardButton(
-            text="📑 Loges", url="https://t.me/khabylogs"),
+            text="📑 Loges", url="https://t.me/khabylogg"),
           
 
 
@@ -101,7 +101,7 @@ HELP_STRINGS = """
 I'm Khaby and help admins manage their groups with Some Powerful Titans! `Have a look at the following for an idea of some of the things I can help you with.`"""
 
 DONATE_STRING = """Heya, glad to hear you want to donate!
- You can support the project via [Paytm](#) or by contacting @ATOPBEGAR\
+ You can support the project via [Paytm](#) or by contacting @ODINSYSTEM\
  Supporting isnt always financial! \
  Those who cannot provide monetary support are welcome to help us develop the bot at ."""
 
